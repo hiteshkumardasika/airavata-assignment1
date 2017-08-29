@@ -71,7 +71,7 @@ function insertItem(){
 
 function fetchAllItems(userId) {
     $.ajax({
-        url: "http://localhost:5001/item/"+id,
+        url: "http://localhost:5000/item/"+id,
         type: 'GET',
         success: function success(data) {
             $("#myarea").empty()
