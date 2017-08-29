@@ -32,3 +32,12 @@ go build
 
 execute the binary generated.
 
+
+
+Accessing the UI
+Open Index.html. It has links to register and login. First register yourself.
+
+It redirects to login page and remember the username and password used for registration and enter here.
+
+Now you see the todo list box to add your todo.
+
